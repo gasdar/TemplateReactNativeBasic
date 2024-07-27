@@ -79,6 +79,5 @@ npm run ios
 ### Habilitar App para la Web
 ``npx expo install react-dom react-native-web @expo/metro-runtime``
 
-
 ### Refresca la Carpeta '/app' del Proyecto
 ``npm run reset-project``
